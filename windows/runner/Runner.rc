@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.mayem-solutions" "\0"
-            VALUE "FileDescription", "season_mobile_git" "\0"
+            VALUE "FileDescription", "season_mobile" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "season_mobile_git" "\0"
+            VALUE "InternalName", "season_mobile" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2024 com.mayem-solutions. All rights reserved." "\0"
-            VALUE "OriginalFilename", "season_mobile_git.exe" "\0"
-            VALUE "ProductName", "season_mobile_git" "\0"
+            VALUE "OriginalFilename", "season_mobile.exe" "\0"
+            VALUE "ProductName", "season_mobile" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
