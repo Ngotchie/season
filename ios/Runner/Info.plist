@@ -49,8 +49,8 @@
 	<key>NSAllowsArbitraryLoads</key>
     <true/>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>Nous avons besoin d'accéder à vos photos pour sélectionner les images pour valider les opérations.</string>
+	<true/>
 	<key>NSCameraUsageDescription</key>
-	<string>Nous avons besoin d'accéder à votre appareil photo pour capturer des images des taches éffectuées.</string>
+	<true/>
 </dict>
 </plist>
