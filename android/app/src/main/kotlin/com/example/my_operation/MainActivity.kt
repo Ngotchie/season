@@ -1,4 +1,4 @@
-package com.mayem-solutions.season
+package com.mayem-solutions.season2
 
 import io.flutter.embedding.android.FlutterActivity
 
