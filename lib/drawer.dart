@@ -130,14 +130,14 @@ Widget drawer(user, context) {
             openPdf(context, file, url);
           },
         ),
-        Divider(height: 3.0),
-        ListTile(
-          leading: Icon(Icons.settings),
-          title: Text('Settings', style: TextStyle(fontSize: 18)),
-          onTap: () {
-            // Here you can give your route to navigate
-          },
-        ),
+        // Divider(height: 3.0),
+        // ListTile(
+        //   leading: Icon(Icons.settings),
+        //   title: Text('Settings', style: TextStyle(fontSize: 18)),
+        //   onTap: () {
+        //     // Here you can give your route to navigate
+        //   },
+        // ),
       ],
     ),
   );
